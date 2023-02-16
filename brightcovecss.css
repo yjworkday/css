@@ -36,7 +36,7 @@
 
 /* CurrentTimeDisplay */
 .video-js .vjs-current-time {
-  color: #00CCCC
+  color: #00CCCC;
 }
 
 /* TimeDivider */
@@ -106,4 +106,5 @@
   color: #FFFFFF;
   font-size: .8em;
 }
+
 .vjs-dock-description {}
