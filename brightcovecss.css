@@ -1,0 +1,109 @@
+/* BigPlayButton */
+.video-js .vjs-big-play-button {
+  color: #FF0000;
+  background: linear-gradient(to bottom, #fcf532 0%,#b9c625 16%,#5a5b0e 100%,#7db9e8 100%);
+  opacity: .7;
+  border-width: .1rem;
+  border-color: #FF0000;
+  border-style: solid;
+}
+
+/* ControlBar (Inherited by icons in the ControlBar, but NOT the ProgressControl) */
+.video-js .vjs-control-bar {
+  color: #FFFF00;
+  background-color: #666666;
+}
+
+/* PlayToggle */
+.video-js .vjs-play-control {
+  color: #FFCC00;
+}
+
+/* VolumeMenuButton */
+.video-js .vjs-volume-menu-button {
+  color: #FF00CC;
+}
+
+/* VolumeBar */
+.vjs-volume-bar.vjs-slider-bar.vjs-slider.vjs-slider-horizontal {
+  color: #FF0000;
+}
+
+/* VolumeLevel */
+.video-js .vjs-volume-level {
+  color: #FFFF00;
+}
+
+/* CurrentTimeDisplay */
+.video-js .vjs-current-time {
+  color: #00CCCC
+}
+
+/* TimeDivider */
+.video-js .vjs-time-divider {
+  color: #FFFF00;
+  font-weight: bold;
+  font-size: .9em;
+}
+
+/* DurationDisplay */
+.video-js .vjs-duration {
+  text-decoration: italic;
+  color: #00CCCC;
+}
+
+/* SeekBar */
+.video-js .vjs-progress-control.vjs-control {
+  color: #FF00FF;
+  height: 1em;
+}
+
+/* PlayProgressBar */
+.video-js .vjs-play-progress.vjs-slider-bar {
+  color: #00FFFF;
+  height: 1em;
+}
+
+/* ChaptersButton */
+.video-js .vjs-chapters-button.vjs-menu-button {
+  color: #CCFF00;
+}
+
+/* CaptionsButton */
+.video-js .vjs-captions-button.vjs-menu-button {
+  color: #FFFFFF;
+  background-color: #333333;
+}
+
+/* FullScreenToggle */
+.video-js .vjs-fullscreen-control.vjs-control {
+  color: #FFFF00;
+  font-weight: bold;
+}
+
+/* DockText (Inherited by both DockTitle and DockDescription) */
+.vjs-dock-text {
+  color: #FFCC00;
+  font-weight: lighter;
+  background: linear-gradient(to bottom, #fcf532 0%,#b9c625 16%,#5a5b0e 100%,#7db9e8 100%);
+  }
+/* docktext background */
+.video-js .vjs-dock-text {
+  color: #3300FF;
+  font-weight: lighter;
+  background: linear-gradient(to bottom, rgba(194,194,41,.7) 0%, rgba(133,131,125,0.5) 100%);
+  opacity: .7;
+  }
+
+/* DockTitle */
+.vjs-dock-title {
+  font-size: 1em;
+  font-family: sans-serif;
+}
+
+/* DockDescription */
+.vjs-dock-description {
+  color: #FFFFFF;
+  font-size: .8em;
+}
+.vjs-dock-description {}
