@@ -43,7 +43,7 @@
 .video-js .vjs-time-divider {
   color: #FFFF00;
   font-weight: bold;
-  font-size: .9em;
+  font-size: 1em;
 }
 
 /* DurationDisplay */
@@ -55,13 +55,13 @@
 /* SeekBar */
 .video-js .vjs-progress-control.vjs-control {
   color: #FF00FF;
-  height: 1em;
+  height: 4px;
 }
 
 /* PlayProgressBar */
 .video-js .vjs-play-progress.vjs-slider-bar {
   color: #00FFFF;
-  height: 1em;
+  height: 4px;
 }
 
 /* ChaptersButton */
