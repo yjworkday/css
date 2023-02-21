@@ -37,6 +37,7 @@
 /* PlayProgressBar */
 .video-js .vjs-play-progress.vjs-slider-bar {
   background-color: #0875E1;
+  border-radius: 12px;
 }
 
 .video-js .vjs-volume-level{
@@ -47,4 +48,5 @@
 /* docktext background */
 .video-js .vjs-dock-text {
   background: linear-gradient(rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+  height: 100%;
 }
