@@ -32,6 +32,8 @@
 /* ControlBar (Inherited by icons in the ControlBar, but NOT the ProgressControl) */
 .video-js .vjs-control-bar {
   background: linear-gradient(360deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%);
+  margin: 16px 16px 0 16px;
+  width: 96%;
 }
 
 /* PlayProgressBar */
